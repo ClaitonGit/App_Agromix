@@ -14,4 +14,4 @@ Esse aplicativo Flutter é um marktplace de vendas de animais.
 
 ## Layout mobile
 
-![Mobile 1](https://github.com/ClaitonGit/App_Agromix/assets/55120068/d3010f86-4c7a-48ba-a4b9-557fec84f25e(whidt:300)) ![Mobile 2](https://github.com/ClaitonGit/App_Agromix/assets/55120068/e7681a2b-5947-46d4-9d1f-e7b078091f7b) ![Mobile 3](https://github.com/ClaitonGit/App_Agromix/assets/55120068/9bab00df-bb51-4dfa-90a9-84d9ee4283aa)
+![Mobile 1](https://github.com/ClaitonGit/App_Agromix/assets/55120068/d3010f86-4c7a-48ba-a4b9-557fec84f25e.jpg | width=200) ![Mobile 2](https://github.com/ClaitonGit/App_Agromix/assets/55120068/e7681a2b-5947-46d4-9d1f-e7b078091f7b.jpg | width=200) ![Mobile 3](https://github.com/ClaitonGit/App_Agromix/assets/55120068/9bab00df-bb51-4dfa-90a9-84d9ee4283aa.jpg | width=200)
