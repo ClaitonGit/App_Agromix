@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1066276922644",
+    "project_id": "agromix-app-34bfb",
+    "storage_bucket": "agromix-app-34bfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066276922644:android:3682412ad51017d20ece01",
+        "android_client_info": {
+          "package_name": "com.example.agromix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066276922644-8a45h7t14b7ddh2eekjhkq9lkaghmpr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSx-6D3DwVM7XdwrsNXTQFPazZeRMDmr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066276922644-8a45h7t14b7ddh2eekjhkq9lkaghmpr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
