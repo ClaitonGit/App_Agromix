@@ -1,16 +1,17 @@
-# agromix
+<h1 align="center">
+    <br>App Agromix para anuncios de animais com Flutter<br/>
+</h1>
 
-A new Flutter project.
+## :bookmark: Sobre o Projeto
 
-## Getting Started
+Esse aplicativo Flutter é um marktplace de vendas de animais.
 
-This project is a starting point for a Flutter application.
+## :rocket: Tecnologias Utilizadas
 
-A few resources to get you started if this is your first Flutter project:
+- [Flutter]
+- [Dart]
+- [Android Studio]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Layout mobile
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Mobile 1]https://github.com/ClaitonGit/App_Agromix/assets/55120068/d3010f86-4c7a-48ba-a4b9-557fec84f25e) ![Mobile 2](https://github.com/ClaitonGit/App_Agromix/assets/55120068/e7681a2b-5947-46d4-9d1f-e7b078091f7b)
